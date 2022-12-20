@@ -1,4 +1,8 @@
-## Hi there 👋
+# Welcome to Caffine Coders👋
+- 🙋‍♀️ We develop projects of interest and contribute to open-source.
+- 📚 Current Master's students who love to code !
+- 🍿 caffien helps.......😄<br/>
+Checkout our projects ⬇️
 
 <!--
 
